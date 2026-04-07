@@ -6,6 +6,7 @@ A fully automated provisioning setup for a 6-node Kubernetes cluster running on 
 
 ## Architecture
 
+![Architecture diagram](docs/architecture-k8s-cluster.svg)
 ```
 Host: OpenSUSE Tumbleweed — KVM/Libvirt
 │
