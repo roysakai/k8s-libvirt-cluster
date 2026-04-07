@@ -53,7 +53,7 @@ vagrant plugin install vagrant-libvirt
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/k8s-libvirt-cluster
+git clone https://github.com/roysakai/k8s-libvirt-cluster
 cd k8s-libvirt-cluster
 
 # Bring up all 6 VMs and provision the cluster
